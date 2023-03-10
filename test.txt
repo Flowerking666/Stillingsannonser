@@ -1,0 +1,7 @@
+CREATE TABLE annonser (
+   ID int,
+   arbeidsplass varchar(255),
+	fagbrev varchar(255),
+	dato date,
+	PRIMARY KEY (ID)  	
+);
